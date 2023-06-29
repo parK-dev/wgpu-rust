@@ -1,0 +1,3 @@
+["rust-analyzer.checkOnSave.overrideCommand"]
+command = "cargo"
+args = ["check", "--target", "wasm32-unknown-unknown"]
